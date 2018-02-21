@@ -1,0 +1,3 @@
+C:\Users\VWrede\Desktop\personal github\ReminderApp\obj\Debug\netcoreapp2.0\ReminderApp.csproj.CoreCompileInputs.cache
+C:\Users\VWrede\Desktop\personal github\ReminderApp\obj\Debug\netcoreapp2.0\ReminderApp.AssemblyInfoInputs.cache
+C:\Users\VWrede\Desktop\personal github\ReminderApp\obj\Debug\netcoreapp2.0\ReminderApp.AssemblyInfo.cs

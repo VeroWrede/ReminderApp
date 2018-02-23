@@ -1,0 +1,18 @@
+1) ask for user intput of tasks - most/second/third and nontrivial.
+	most/second/third should be one task each, nontrivial can be several.
+2) save tasks into a toDoList (and file?).
+3) throughout day send text with top 7 elements of toDoList.
+4) throughout day create pop up on screen reminding user of his/her tasks on toDoList. 
+
+
+5) at end of day create pop up to prompt user to to 1) again and create a new toDolist ( 2) ).
+6) repeat steps 3-5. 
+
+-------------------------------------------------------
+
+classes:
+
+- tasks -> toDoItem (most,second,third,nontrivial)
+- toDoList
+- pop ups => screen reminders, asking for user input ?
+- text message ? 

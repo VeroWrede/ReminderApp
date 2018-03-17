@@ -1,0 +1,9 @@
+C:\Users\VWrede\Desktop\personal github\Reminder App in VS\ToDoClasses\ToDoClasses\bin\Debug\netstandard2.0\ToDoClasses.deps.json
+C:\Users\VWrede\Desktop\personal github\Reminder App in VS\ToDoClasses\ToDoClasses\bin\Debug\netstandard2.0\ToDoClasses.dll
+C:\Users\VWrede\Desktop\personal github\Reminder App in VS\ToDoClasses\ToDoClasses\bin\Debug\netstandard2.0\ToDoClasses.pdb
+C:\Users\VWrede\Desktop\personal github\Reminder App in VS\ToDoClasses\ToDoClasses\obj\Debug\netstandard2.0\ToDoClasses.csprojResolveAssemblyReference.cache
+C:\Users\VWrede\Desktop\personal github\Reminder App in VS\ToDoClasses\ToDoClasses\obj\Debug\netstandard2.0\ToDoClasses.csproj.CoreCompileInputs.cache
+C:\Users\VWrede\Desktop\personal github\Reminder App in VS\ToDoClasses\ToDoClasses\obj\Debug\netstandard2.0\ToDoClasses.AssemblyInfoInputs.cache
+C:\Users\VWrede\Desktop\personal github\Reminder App in VS\ToDoClasses\ToDoClasses\obj\Debug\netstandard2.0\ToDoClasses.AssemblyInfo.cs
+C:\Users\VWrede\Desktop\personal github\Reminder App in VS\ToDoClasses\ToDoClasses\obj\Debug\netstandard2.0\ToDoClasses.dll
+C:\Users\VWrede\Desktop\personal github\Reminder App in VS\ToDoClasses\ToDoClasses\obj\Debug\netstandard2.0\ToDoClasses.pdb
